@@ -41,7 +41,7 @@ Now you'll create a Workflow that starts an invoice review when a SharePoint req
 
 ## Add the agent
 
-1. Select the **plug button** next to the **when an item is created** node.
+1. Select the **plus button** next to the **when an item is created** node.
 
     ![Add an action](./assets/06.7-add.png)
 
@@ -79,7 +79,7 @@ Now you'll create a Workflow that starts an invoice review when a SharePoint req
 
     ![Paste the message](./assets/06.13-requestnotes-lighting.png)
 
-1. Select the **Invoice ID** property from the **When an item is created** trigger.
+1. Select the **Request Note** property from the **When an item is created** trigger.
 
     ![Paste the message](./assets/06.14-requestnotes.png)
 
@@ -104,7 +104,7 @@ Now you'll create a Workflow that starts an invoice review when a SharePoint req
     | Invoice ID | Trigger `Invoice ID` |
     | Request Notes | Trigger `Request Notes` |
     | Status | `Complete` |
-    | Agent Response | Final response from **Run an agent** |
+    | Agent Response | Trigger `Result` |
     | Error Detail | Leave blank |
 
     ![Review the properties](./assets/06.17-review-update-item.png)
