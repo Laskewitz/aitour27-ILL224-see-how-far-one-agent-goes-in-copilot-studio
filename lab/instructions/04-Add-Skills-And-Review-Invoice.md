@@ -75,7 +75,7 @@ The harness will coordinate two skills. Invoice Fact Check gathers and structure
 
     ![Test the changes](./assets/04.10-preview-tab.png)
 
-1. 1. Select the **New chat** button. Select the **Plus Button** and attach:
+1. Select the **New chat** button. Select the **Plus Button** and attach:
 
     ```text
     D:\LabFiles\case-inputs\Caldova_Astor_Ridge_Invoice.xlsx
