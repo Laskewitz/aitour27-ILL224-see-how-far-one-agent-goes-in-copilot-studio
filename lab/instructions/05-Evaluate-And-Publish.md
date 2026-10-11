@@ -77,8 +77,8 @@ Now we'll see how to add a layer of personalization to the agent with memories. 
 
     ![Save the evaluation](./assets/05.14-save-eval.png)
 
-> [!NOTE]
-> The evaluation can take 5 - 10 minutes to run.
+    > [!NOTE]
+    > The evaluation can take 5 - 10 minutes to run.
 
 1. Review the evaluation results and check to make sure that everything shows as **passed**.
 

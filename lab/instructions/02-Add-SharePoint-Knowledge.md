@@ -47,8 +47,8 @@ Contracts, policy, approvals, and quality documents are are the sources that wil
 
     ![Review the response](./assets/02.8-prompt-response.png)
 
-> [!TIP]
-> Wording can vary. Validate the facts and source rather than expecting an exact sentence.
+    > [!TIP]
+    > Wording can vary. Validate the facts and source rather than expecting an exact sentence.
 
 1. Click on each of the **Citations** shown below the response and verify where the answer came from.
 
