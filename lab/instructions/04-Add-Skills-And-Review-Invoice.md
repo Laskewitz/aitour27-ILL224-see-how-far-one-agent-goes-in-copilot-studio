@@ -124,7 +124,11 @@ The harness will coordinate two skills. Invoice Fact Check gathers and structure
     ![Enter the prompt](./assets/04.17-follow-up-prompt.png)
 
 1. If it struggles to find the Invoice Review Log list, it might ask you for the URL. If it does, provide it with the URL.
-1. Review the response. Open the SharePoint **Invoice Review Log** and verify one ARB-260814 item with the expected amounts and **Interactive Agent** source.
+1. Review the response. Open the SharePoint **Invoice Review Log**:
+
+    +++https://@lab.CloudCredential(AITour27M365E7).TenantPrefix.sharepoint.com/sites/CaldovaSupplierOps/Lists/Invoice%20Review%20Log/AllItems.aspx+++
+
+    Verify one ARB-260814 item with the expected amounts and **Interactive Agent** source.
 
     ![Review the log](./assets/04.18-review-log.png)
 

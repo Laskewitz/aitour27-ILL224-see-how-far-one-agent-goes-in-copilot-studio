@@ -32,8 +32,8 @@ Model Context Protocol exposes a menu of operations an agent can discover and ca
 
 1. Toggle all of the list of tools back to **On** EXCEPT the following:
    - Delete list item
-   - Delete list
    - Delete file or folder
+   - Delete list
    - Delete column
    - Share file or folder
 1. Confirm **Create list item**, **Update list item**, and the list-reading tools are **On**. You will need those for the lab and don't want them accidentally turned off.
@@ -77,7 +77,11 @@ Model Context Protocol exposes a menu of operations an agent can discover and ca
 
     ![Review the response](./assets/03.12-review-response.png)
 
-1. Open the **Invoice Review Requests** lists and verify one **Astor Ridge invoice review - ARB-260814** item has Status **New** and the specified request notes.
+1. Open the **Invoice Review Requests** list:
+
+    +++https://@lab.CloudCredential(AITour27M365E7).TenantPrefix.sharepoint.com/sites/CaldovaSupplierOps/Lists/Invoice%20Review%20Requests/AllItems.aspx+++
+
+    Verify one **Astor Ridge invoice review - ARB-260814** item has Status **New** and the specified request notes.
 
     ![Review the list](./assets/03.13-view-list-item.png)
 
